@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ancho"> 70dp </dimen>
+    <dimen name="anchotriple">  </dimen>
+    <dimen name="alto"> 70dp </dimen>
+    <dimen name="margin" > 30dp </dimen>
+    <dimen name="margindoble" > 40dp </dimen>
+    <dimen name="margintriple" > 60dp </dimen>
+</resources>
